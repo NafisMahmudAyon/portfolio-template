@@ -1,6 +1,6 @@
 'use client'
 import { Tooltip, TooltipAction, TooltipContent } from '@/components/aspect-ui';
-import data from '@/public/project-data.json';
+import data from '@/data/project-data.json';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Link from 'next/link';
 
