@@ -1,0 +1,100 @@
+{
+  "personal": {
+    "fullName": "Your Name",
+    "title": "Frontend Web Developer",
+    "headline": "A passionate Frontend Web Developer with 4 years of experience in creating user-friendly, visually appealing websites with a strong focus on UI/UX design.",
+    "bio": [
+      "I'm Nafis Mahmud Ayon, a passionate Frontend Web Developer with 4 years of experience in building responsive, high-quality websites that prioritize user experience. My expertise lies in crafting visually appealing and intuitive interfaces with a strong emphasis on UI/UX design. I enjoy turning complex problems into simple, beautiful, and engaging solutions.",
+      "I thrive on the challenge of staying up-to-date with the latest technologies and best practices in the industry, ensuring that every project I work on is not only functional but also cutting-edge. Whether it's creating a mobile-first design, optimizing performance, or ensuring cross-browser compatibility, I'm committed to delivering the best possible outcome for every client.",
+      "When I'm not coding, you can find me exploring new design trends, contributing to open-source projects, or sharing my knowledge with the developer community."
+    ],
+    "email": "nafismahmudayon@gmail.com",
+    "phone": "+880 1234 567890",
+    "location": "Bangladesh",
+    "profileImage": "/profilePic.jpg",
+    "resume":"/resume.pdf",
+    "socialLinks": {
+      "github": "https://github.com/NafisMahmudAyon",
+      "linkedin": "https://www.linkedin.com/in/nafis-mahmud-ayon",
+      "facebook": "https://www.facebook.com/ayon.nafis.mahmud",
+      "twitter": "https://twitter.com/nafis_ayon_bd",
+      "portfolio": "https://nafisbd.com"
+    }
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "UI/UX Design",
+    "Responsive Design",
+    "WordPress",
+    "PHP",
+    "REST API",
+    "GraphQL",
+    "Git",
+    "Figma",
+    "VS Code"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "company": "PickPlugins",
+      "period": "2024 - Present",
+      "location": "Rangpur, Bangladesh",
+      "website": "pickplugins.com",
+      "description": "Develop and maintain scalable React applications with reusable components and efficient state management. Integrate APIs using REST, GraphQL, or WebSockets, optimize performance with lazy loading and memoization, and ensure code quality through testing and debugging. Collaborate with designers and backend teams to deliver responsive, high-performance web applications.",
+      "technologies": ["HTML", "CSS", "JS", "React", "Next JS", "TS", "WordPress", "JSON", "API", "Tailwind"]
+    },
+    {
+      "id": 2,
+      "title": "Plugin Developer",
+      "company": "PickPlugins",
+      "period": "2023 - 2024",
+      "location": "Rangpur, Bangladesh",
+      "website": "pickplugins.com",
+      "description": "Develop and maintain WordPress plugins using PHP, JavaScript, and WordPress APIs, extending functionality with custom post types, taxonomies, and shortcodes. Create custom Gutenberg blocks with React, optimize performance, ensure security, and maintain compatibility with updates while debugging and troubleshooting issues.",
+      "technologies": ["HTML", "CSS", "JS", "PHP", "React", "WordPress", "JSON", "API", "Tailwind"]
+    },
+    {
+      "id": 3,
+      "title": "FrontEnd Web Developer",
+      "company": "PickPlugins",
+      "period": "2022 - 2023",
+      "location": "Rangpur, Bangladesh",
+      "website": "pickplugins.com",
+      "description": "Developed web sections and landing page layouts using Gutenberg Editor and ComboBlocks plugin, ensuring responsiveness, performance optimization, and seamless user experience. Collaborated with designers to implement visually appealing and functional UI components",
+      "technologies": ["HTML", "CSS", "JS", "PHP", "React", "WordPress", "JSON", "API", "Tailwind"]
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Web Developer",
+      "company": "Freelancer",
+      "period": "2020 - Present",
+      "location": "Worldwide",
+      "website": "fiverr.com",
+      "description": "Developed Full Stack web applications, Tech used React, JavaScript, PHP.",
+      "technologies": ["HTML", "CSS", "JS", "PHP", "React", "WordPress", "JSON", "API", "Tailwind"]
+    }
+  ],
+  "callToAction": {
+    "heading": "Let's work together",
+    "subheading": "I'm always interested in hearing about new projects and opportunities.",
+    "cta_text": "Get In Touch",
+    "cta_link": "mailto:contact@nafisbd.com"
+  },
+  "logo":{
+    "img":"/placeholder-logo.svg"
+  },
+  "metadata": {
+    "title": "Nafis Mahmud Ayon | Portfolio",
+    "description": "Frontend Web Developer with 4 years of experience in React, Next.js, and UI/UX design.",
+    "keywords": ["Nafis Mahmud Ayon", "Frontend Developer", "React Developer", "Next.js Developer", "Portfolio"],
+    "author": "Nafis Mahmud Ayon",
+    "url": "https://nafisbd.com"
+  }
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "created_at": "2024-05-10T11:45:00.000+00:00",
+    "title": "TaskFlow Manager",
+    "slug": "taskflow-manager",
+    "short_description": "TaskFlow Manager is a web-based productivity tool designed to help teams manage tasks, track progress, and collaborate efficiently in real-time.",
+    "project_type": [
+      "Web Application"
+    ],
+    "project_status": "Completed",
+    "date_started": "2024-03-12",
+    "date_complete": "2024-05-01",
+    "tech_use": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "Supabase"
+    ],
+    "project_url": "#",
+    "redirect": false,
+    "redirect_url": "#",
+    "role": "Lead Developer",
+    "client_name": "FlowTech Solutions",
+    "client_feedback": "Outstanding UI/UX design and seamless integration of features!",
+    "key_features": [
+      {
+        "title": "Real-time Collaboration",
+        "desc": "Multiple users can edit and track tasks simultaneously."
+      },
+      {
+        "title": "Progress Analytics",
+        "desc": "Visual dashboards to monitor project progress and performance."
+      },
+      {
+        "title": "Task Automation",
+        "desc": "Automated reminders and task scheduling for improved productivity."
+      },
+      {
+        "title": "Role-based Access",
+        "desc": "Custom permissions for admins, managers, and team members."
+      }
+    ],
+    "blog": "# TaskFlow Manager\nTaskFlow Manager is a feature-rich web app for efficient task tracking and collaboration. Built with Next.js and Supabase, it ensures real-time updates and secure data handling. Ideal for teams seeking productivity and transparency.",
+    "challenges_faced": "Ensuring smooth WebSocket synchronization for real-time updates.",
+    "lessons_learned": "Effective caching and optimistic UI can greatly enhance UX.",
+    "team_size": 4,
+    "collaborators": [
+      "Ava",
+      "Liam",
+      "Noah"
+    ],
+    "project_images": [
+      "https://dummyimage.com/600x400/8ca0ff/ffffff&text=TaskFlow+Dashboard",
+      "https://dummyimage.com/600x400/6b72e9/ffffff&text=Task+Board"
+    ],
+    "project_videos": [],
+    "documentation_links": [
+      "#"
+    ],
+    "github_repo": "#",
+    "downloadable_resources": [],
+    "updated_at": "2024-05-02T14:00:00.000",
+    "tags": [
+      "nextjs",
+      "collaboration",
+      "task-management",
+      "dashboard",
+      "supabase"
+    ],
+    "views_count": 382,
+    "likes": 59,
+    "comments": 12,
+    "description": [
+      "TaskFlow Manager helps teams collaborate in real time.",
+      "It includes analytics, automation, and secure access controls.",
+      "Built for scalability and performance using Next.js and Supabase."
+    ]
+  },
+  {
+    "id": 2,
+    "created_at": "2024-07-08T10:30:00.000+00:00",
+    "title": "ShopVerse UI",
+    "slug": "shopverse-ui",
+    "short_description": "ShopVerse UI is a React component library built for eCommerce projects, offering pre-designed elements for stores, product pages, and shopping carts.",
+    "project_type": [
+      "UI Library"
+    ],
+    "project_status": "In Progress",
+    "date_started": "2024-06-10",
+    "date_complete": null,
+    "tech_use": [
+      "React",
+      "Tailwind",
+      "Vite",
+      "TypeScript"
+    ],
+    "project_url": "#",
+    "redirect": false,
+    "redirect_url": "#",
+    "role": "Author",
+    "client_name": "",
+    "client_feedback": "",
+    "key_features": [
+      {
+        "title": "Pre-Built eCommerce Components",
+        "desc": "Includes product cards, modals, carousels, and checkout forms."
+      },
+      {
+        "title": "Custom Theme Support",
+        "desc": "Easily adaptable design with dark/light mode."
+      },
+      {
+        "title": "Accessibility First",
+        "desc": "All components are accessible and keyboard navigable."
+      },
+      {
+        "title": "Fast Performance",
+        "desc": "Lightweight, optimized for production use."
+      }
+    ],
+    "blog": "# ShopVerse UI\nShopVerse UI simplifies eCommerce development by providing ready-to-use, accessible React components. Developers can build scalable online stores faster with clean design and flexible customization options.",
+    "challenges_faced": "Balancing customization flexibility with design consistency.",
+    "lessons_learned": "Component abstraction reduces repetition and improves maintainability.",
+    "team_size": 1,
+    "collaborators": [],
+    "project_images": [
+      "https://dummyimage.com/600x400/94d3ac/ffffff&text=ShopVerse+UI",
+      "https://dummyimage.com/600x400/75b69d/ffffff&text=Product+Grid"
+    ],
+    "project_videos": [],
+    "documentation_links": [
+      "#"
+    ],
+    "github_repo": "#",
+    "downloadable_resources": [],
+    "updated_at": "2024-08-01T09:45:00.000",
+    "tags": [
+      "react",
+      "ui-library",
+      "ecommerce",
+      "frontend",
+      "design-system"
+    ],
+    "views_count": 214,
+    "likes": 41,
+    "comments": 7,
+    "description": [
+      "ShopVerse UI provides pre-styled components for eCommerce websites.",
+      "Includes responsive product and checkout UI elements.",
+      "Designed for performance, accessibility, and ease of use."
+    ]
+  },
+  {
+    "id": 3,
+    "created_at": "2024-09-20T09:00:00.000+00:00",
+    "title": "EduPro Learn",
+    "slug": "edupro-learn",
+    "short_description": "EduPro Learn is an online learning platform for managing courses, lessons, and quizzes with AI-based progress tracking.",
+    "project_type": [
+      "Web Application"
+    ],
+    "project_status": "In Development",
+    "date_started": "2024-09-01",
+    "date_complete": null,
+    "tech_use": [
+      "Next.js",
+      "React",
+      "PostgreSQL",
+      "Prisma",
+      "Clerk Auth"
+    ],
+    "project_url": "#",
+    "redirect": false,
+    "redirect_url": "#",
+    "role": "Full-Stack Developer",
+    "client_name": "EduPro Labs",
+    "client_feedback": "",
+    "key_features": [
+      {
+        "title": "AI-Powered Learning",
+        "desc": "Personalized study recommendations using AI."
+      },
+      {
+        "title": "Course Management",
+        "desc": "Instructors can create, edit, and publish courses easily."
+      },
+      {
+        "title": "Interactive Quizzes",
+        "desc": "Engaging assessments with instant feedback."
+      },
+      {
+        "title": "Progress Tracking",
+        "desc": "Users can monitor completion rates and achievements."
+      }
+    ],
+    "blog": "# EduPro Learn\nEduPro Learn revolutionizes e-learning with intelligent progress tracking and modern UI. Built using Next.js and Prisma, it ensures smooth scalability and secure authentication for learners and instructors.",
+    "challenges_faced": "Integrating AI-based tracking with traditional course data models.",
+    "lessons_learned": "Complex relational data benefits from modular schema design.",
+    "team_size": 3,
+    "collaborators": [
+      "Mia",
+      "Ethan"
+    ],
+    "project_images": [
+      "https://dummyimage.com/600x400/f0c987/ffffff&text=EduPro+Dashboard",
+      "https://dummyimage.com/600x400/dab66d/ffffff&text=Course+Page"
+    ],
+    "project_videos": [],
+    "documentation_links": [
+      "#"
+    ],
+    "github_repo": "#",
+    "downloadable_resources": [],
+    "updated_at": "2024-10-01T12:00:00.000",
+    "tags": [
+      "education",
+      "ai",
+      "nextjs",
+      "postgresql",
+      "learning-platform"
+    ],
+    "views_count": 97,
+    "likes": 15,
+    "comments": 3,
+    "description": [
+      "EduPro Learn is an interactive LMS with AI recommendations.",
+      "Instructors manage courses, while learners track their progress.",
+      "Secure and scalable using Next.js and PostgreSQL."
+    ]
+  }
+]

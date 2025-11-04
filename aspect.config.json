@@ -1,0 +1,5 @@
+{
+  "language": "typescript",
+  "componentsDir": "components",
+  "libDir": "components/utils"
+}
