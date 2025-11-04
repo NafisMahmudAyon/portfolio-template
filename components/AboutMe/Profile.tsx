@@ -40,7 +40,7 @@ const Profile = () => {
         />
       </motion.div>
       <motion.div
-        className='absolute -bottom-10 left-1/2 flex w-[260px] flex-col items-center justify-center rounded-lg border border-primaryColor bg-primaryColor/10 px-4 py-2 text-center backdrop-blur-xl'
+        className='absolute -bottom-10 left-1/2 flex w-[260px] flex-col items-center justify-center rounded-lg border border-primaryColor bg-primaryColor/90 px-4 py-2 text-center backdrop-blur-md'
         initial={{ x: -300, opacity: 0 }}
         animate={{ x: '-50%', opacity: 1 }}
         transition={{

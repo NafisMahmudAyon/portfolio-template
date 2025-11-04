@@ -1,6 +1,8 @@
 import { poppins } from '@/app/fonts'
+import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
+import profileData from '@/data/portfolio-data.json'
 
 const FooterLogo = () => {
   return (
@@ -8,8 +10,7 @@ const FooterLogo = () => {
       className={`text-3xl font-semibold tracking-wide text-headingText dark:text-headingDarkText lg:text-xl ${poppins.className}`}
     >
       <Link href='/#home'>
-        <span className='text-primaryColor'>N</span>afis
-        <span className='text-primaryColor'>BD</span>
+        <Image src={profileData.logo.img} alt='logo' width={100} height={100} />
       </Link>
     </h1>
   )
