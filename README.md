@@ -43,11 +43,13 @@ portfolio/
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
+### Fork the repository to your own GitHub account first
+
+### Then clone your fork locally
 
 ```bash
-git clone https://github.com/NafisMahmudAyon/portfolio-template
-cd portfolio-template
+git clone https://github.com/<your-username>/your-portfolio.git
+cd your-portfolio
 ```
 
 ### 2. Install dependencies
